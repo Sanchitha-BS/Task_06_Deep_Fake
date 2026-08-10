@@ -1,3 +1,4 @@
+# Detection & Provenance Check
 
 Both synthetic audio artifacts were generated with **ElevenLabs** (free tier) and tested against three independent detection methods: two acoustic/neural pattern detectors and one metadata-based provenance check.
 
