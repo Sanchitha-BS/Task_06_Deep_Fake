@@ -11,9 +11,9 @@ This project transforms a written narrative, a coach's end-of-season advisory re
 | File | Description |
 |---|---|
 | `Source script.md` | The written narrative used as the script for both audio attempts |
-| `artifacts/` | The two synthetic audio files (labeled AI-generated) |
-| `evaluation.md` | Critical evaluation of each artifact: where it holds up, where it fails, and whether it would fool a casual listener |
-| `detection_provenance.md` | Results of three detection/provenance checks run on both files, with tools and URLs used |
+| `Artifacts/` | The two synthetic audio files (labeled AI-generated) |
+| `Evaluation.md` | Critical evaluation of each artifact: where it holds up, where it fails, and whether it would fool a casual listener |
+| `Detection_provenance.md` | Results of three detection/provenance checks run on both files, with tools and URLs used |
 
 ## Tools Used
 
@@ -38,7 +38,7 @@ This project transforms a written narrative, a coach's end-of-season advisory re
 2. Go to Text to Speech, paste in the script from `Source script.md`
 3. Select a voice preset and generate; download the MP3
 4. Repeat with a second, distinctly different voice preset
-5. Listen to both closely against the criteria in `evaluation.md` and document your own observations
+5. Listen to both closely against the criteria in `Evaluation.md` and document your own observations
 6. Upload each file to the three detectors listed above and record the results
 
 ## What I Learned
