@@ -24,7 +24,7 @@ This project transforms a written narrative — a coach's end-of-season advisory
 
 ## Process Summary
 
-1. Adapted the Task 5 coach-advisory narrative into a standalone script (`source_script.md`)
+1. Adapted the Task 5 coach-advisory narrative into a standalone script (`Source script.md`)
 2. Generated two audio attempts from the same script in ElevenLabs, using two different voice presets to test whether voice/tone choice affects delivery quality and detectability:
    - **Attempt 1:** Nathan — Natural Narrator
    - **Attempt 2:** Lauren — Empathetic and Encouraging
