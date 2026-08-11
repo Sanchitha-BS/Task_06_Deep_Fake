@@ -11,9 +11,9 @@ Both synthetic audio artifacts were generated with **ElevenLabs** (free tier) an
 
 ## Detection Methods
 
-1. **humantext.pro/ai-voice-detector** — acoustic/neural pattern analysis, browser-based, no signup
-2. **UncovAI (uncovai.com/audio-detection)** — spectral, prosodic, and formant transition analysis, returns a calibrated probability score
-3. **verify.contentauthenticity.org** — C2PA content credential check (reads embedded cryptographic metadata rather than analyzing the waveform)
+1. **humantext.pro** — https://humantext.pro/ai-voice-detector — acoustic/neural pattern analysis, browser-based, no signup
+2. **UncovAI** — https://uncovai.com/audio-detection — spectral, prosodic, and formant transition analysis, returns a calibrated probability score
+3. **Content Credentials Verify** — https://verify.contentauthenticity.org — C2PA content credential check (reads embedded cryptographic metadata rather than analyzing the waveform)
 
 ## Results
 
