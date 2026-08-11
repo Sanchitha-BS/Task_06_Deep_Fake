@@ -1,6 +1,6 @@
 # Critical Evaluation
 
-Both artifacts were generated from the same script (see `source_script.md`) using ElevenLabs free tier, with two distinct voice presets: **Nathan (Natural Narrator)** and **Lauren (Empathetic and Encouraging)**.
+Both artifacts were generated from the same script (see `Source script.md`) using ElevenLabs free tier, with two distinct voice presets: **Nathan (Natural Narrator)** and **Lauren (Empathetic and Encouraging)**.
 
 ## Attempt 1: Nathan — Natural Narrator
 
