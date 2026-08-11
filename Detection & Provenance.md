@@ -6,8 +6,8 @@ Both synthetic audio artifacts were generated with **ElevenLabs** (free tier) an
 
 | Attempt | Voice | Style | File |
 |---|---|---|---|
-| 1 | Nathan | Natural Narrator | `ElevenLabs_2026-08-10T21_33_25_Nathan_-_Natural_Narrator_pvc_sp94_s77_sb100_se5_m2.mp3` |
-| 2 | Lauren | Empathetic and Encouraging | `ElevenLabs_2026-08-10T21_16_12_Lauren_-_Empathetic_and_Encouraging_pvc_sp100_s50_sb75_se0_b_m2.mp3` |
+| 1 | Nathan | Natural Narrator | `01_elevenlabs_nathan-narrator_AI-GENERATED.mp3` |
+| 2 | Lauren | Empathetic and Encouraging | `02_elevenlabs_lauren-empathetic_AI-GENERATED.mp3` |
 
 ## Detection Methods
 
