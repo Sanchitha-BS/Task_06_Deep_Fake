@@ -2,7 +2,7 @@
 
 **Title:** A Coach's Perspective: End of Season Reflection
 
-This script is adapted from the Task 5 narrative — a coach-advisory answer built on ground-truth season stats, including a comparison of LLM-generated recommendations against self-verified analysis.
+This script is adapted from the Task 5 narrative, a coach-advisory answer built on ground-truth season stats, including a comparison of LLM-generated recommendations against self-verified analysis.
 
 ---
 
