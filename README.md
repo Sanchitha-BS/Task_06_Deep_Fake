@@ -1,4 +1,4 @@
-# Task_06_Deep_Fake
+# Task 06 Deep Fake
 
 > **Synthetic Media Disclosure:** This repository contains AI-generated audio artifacts. Both audio files were produced using ElevenLabs (free tier) text-to-speech. No real person's voice or likeness was cloned or depicted, all output is a synthetic reading of an original written script by stock ElevenLabs voices (Nathan and Lauren).
 
